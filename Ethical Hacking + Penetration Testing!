@@ -74,7 +74,11 @@ ______________________________________
               # the default setting of aggresion level is 'stealthy'.
                 Other levels of aggresion should be used only in 
                 penetration operations.
-                
+              # whatweb --help <= a lot more info about possible uses of whatweb  
+              syntx:
+                # whatweb "url" <= basic info
+                # whatweb "url" - v <= basic info but easy to read
+                #
           # CTRL + c <= leave operation.
         # passive
           #
