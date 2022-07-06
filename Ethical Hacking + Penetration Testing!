@@ -66,6 +66,7 @@ ______________________________________
           # In kali terminal & ping targeted website.
           Tools:
             # ping "website address" command <= IP ADDRESS
+            # CTRL + c <= leave operation ping.
             # nslookup "website address" <= IP ADDRESS
             # use a website that sources out an IP ADDRESS
             # whois "website address" <= a lot of information 
@@ -78,8 +79,19 @@ ______________________________________
               syntx:
                 # whatweb "url" <= basic info
                 # whatweb "url" - v <= basic info but easy to read
-                #
-          # CTRL + c <= leave operation.
+                
+              Information:
+              # after running ifconfig command in eth0 section, inet xxx.xxx.x.x is
+                IP ADDRESS. netmask 255.255.255.0 . 255 <= indicates that number can not change.
+                0 <= indicates digit that can change.
+           => # whatweb "range from-to" --aggression 3 -v <= syntax of scanning 
+                multiple home IP ADDRESS'es at once.
+                #example:
+                1. whatweb xxx.xxx.xxx.0-xxx.xxx.xxx.255 --aggression 3 -v --no-errors
+                2. whatweb xxx.xxx.xxx.0-xxx.xxx.xxx.255 --aggression 3 -v --no-errors
+                   --log-verbose="file name" <= Get IP Addresses scan, save it in .txt file.
+______________________________________                 
+        To get emails:
         # passive
           #
           #
