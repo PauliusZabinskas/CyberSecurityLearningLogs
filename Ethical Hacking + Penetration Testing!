@@ -63,8 +63,19 @@ ________________________________________________________________________________
 ______________________________________ 
       Obtaining IP Address, Physical Address Using Whois Tool:{
         # actively
-          # In kali terminal 
-          #
+          # In kali terminal & ping targeted website.
+          Tools:
+            # ping "website address" command <= IP ADDRESS
+            # nslookup "website address" <= IP ADDRESS
+            # use a website that sources out an IP ADDRESS
+            # whois "website address" <= a lot of information 
+              here that can be publicly accessed
+            @"whatweb"
+              # the default setting of aggresion level is 'stealthy'.
+                Other levels of aggresion should be used only in 
+                penetration operations.
+                
+          # CTRL + c <= leave operation.
         # passive
           #
           #
