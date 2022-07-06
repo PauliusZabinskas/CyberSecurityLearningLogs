@@ -35,7 +35,7 @@
      Root:{
       # sudo su <= access to root 
       # exit <= leave sudo su mode
-      # remeber - can be created files that can be accessed only via sudo su command mode
+      # remeber - can be created files that can be accessed / modifyed only via sudo su command mode
       }
   }
  
