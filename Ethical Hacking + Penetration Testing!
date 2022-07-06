@@ -3,4 +3,42 @@
 05/07/2022
   #Kali linux intall, updates, all pen tools.
   #intall guest edition
+  
+06/07/2022
+  Terminal comands:{
+    Terminal navigation:{
+      # cd "drectory name" <= opens derectory mentioned
+      # cd .. <= bring you back from child derectory
+      # pwd <= print working derectory
+      # ls <= list of derectories and files
+      # 
+    }
+    File creation:{
+      # nano "file name" <=
+      # cat "file name" <= opens the content of file
+      # python3 "fileName.py <= open python script
+      # rm * -r <= delete all files and derectories
+      # rm "file name" <= deletes a file
+      # rm "folder name" -r <= deletes folder
+      # touch "file name" <= creates empty file
+      # echo "string " > "file name <= puts a string into a file.
+      # mkdir "folder name" <= creates a folder
+      # mv "file name" "folder name" <= moves file chosen to folder chosen
+      # cp "file name" "full path to derectory / nameof file.py
+      # cp "original file name" "copy name" <= copy a file
+      #
+    }
+    Network commands:{
+      # sudo ifconfig <= network info command. IP ADDRESS, MAC ADDRESS.
+      # 
+    }
+     Root:{
+      # sudo su <= access to root 
+      # exit <= leave sudo su mode
+      # remeber - can be created files that can be accessed only via sudo su command mode
+      }
+  }
+ 
+ 
+ 
  
