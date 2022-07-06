@@ -92,6 +92,16 @@ ______________________________________
                    --log-verbose="file name" <= Get IP Addresses scan, save it in .txt file.
 ______________________________________                 
         To get emails:
+          Tools:
+            # theHarvester
+            # hunter.io
+            # 
+           theHarvester syntax:
+            # theHarvester -d "url" -b all <= looks for emails in all social domains
+              'all' can be cahnged to a single domain like 'google'
+           hunter.io
+            # can use for free with an account.
+______________________________________            
         # passive
           #
           #
