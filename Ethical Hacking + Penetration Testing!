@@ -95,12 +95,18 @@ ______________________________________
           Tools:
             # theHarvester
             # hunter.io
-            # 
+            # information gathering tools github
+            
            theHarvester syntax:
             # theHarvester -d "url" -b all <= looks for emails in all social domains
               'all' can be cahnged to a single domain like 'google'
+              
            hunter.io
             # can use for free with an account.
+            
+           information gathering tools github:
+            #git clone "url" <= take existing tool and use it.
+           
 ______________________________________            
         # passive
           #
