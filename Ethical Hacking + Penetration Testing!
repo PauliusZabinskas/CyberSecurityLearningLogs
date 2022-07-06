@@ -3,7 +3,7 @@
 05/07/2022
   #Kali linux intall, updates, all pen tools.
   #intall guest edition
-  
+_________________________________________________________________________________________     
 06/07/2022
   Terminal comands:{
     Terminal navigation:{
@@ -37,6 +37,7 @@
       # exit <= leave sudo su mode
       # remeber - can be created files that can be accessed / modifyed only via sudo su command mode
       }
+_________________________________________________________________________________________      
      5 Stages of pen testing:{
       1. Information gathering / reconnaissance <= legal
       2. Scanning <= openings in the target, operating systems.
@@ -44,6 +45,30 @@
       4. maintaining access <= building back doors, root kits
       5. covering tracks
       }
+_________________________________________________________________________________________      
+     Information gathering:{
+      #Active
+        # find out as many things as we can.
+        # talk to some one.
+        # scan website
+        # 
+      #Passive
+        # middle source <= use a 3rd party to gain info
+          # IP ADDRESS
+          # Employes data
+          # tech busins has
+          # website - what language used
+          # posible vunerabileties
+      }
+______________________________________ 
+      Obtaining IP Address, Physical Address Using Whois Tool:{
+        # actively
+          # In kali terminal 
+          #
+        # passive
+          #
+          #
+        }
   }
  
  
