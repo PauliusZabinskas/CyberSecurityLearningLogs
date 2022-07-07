@@ -90,7 +90,10 @@ ______________________________________
                 1. whatweb xxx.xxx.xxx.0-xxx.xxx.xxx.255 --aggression 3 -v --no-errors
                 2. whatweb xxx.xxx.xxx.0-xxx.xxx.xxx.255 --aggression 3 -v --no-errors
                    --log-verbose="file name" <= Get IP Addresses scan, save it in .txt file.
-______________________________________                 
+______________________________________      
+## Key is tool kits kan be downloaded via github easy.
+   if a tools brakes or dose not work we can use others.
+   
         To get emails:
           Tools:
             # theHarvester
@@ -106,7 +109,12 @@ ______________________________________
             
            information gathering tools github:
             #git clone "url" <= take existing tool and use it.
-           
+            Tool's:
+              # Sherlock:
+                #python3 sherlock.py "userName"
+              # email-scarper.py
+                # python3 email-scarper.py
+                # enter https://"something"
 ______________________________________            
         # passive
           #
